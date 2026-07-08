@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project, I investigated MITRE ATT&CK T1490 (Inhibit System Recovery) using Splunk Enterprise and Windows attack datasets provided by Atomic Red Team.
+In this short project, I investigated MITRE ATT&CK T1490 (Inhibit System Recovery) using Splunk Enterprise and Windows attack datasets provided by Atomic Red Team.
 
 T1490 is an impact technique where attackers remove or disable recovery options on a system. This technique is commonly used during ransomware attacks to prevent organizations from restoring files and recovering affected systems.
 
